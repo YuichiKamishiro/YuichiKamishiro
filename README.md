@@ -33,5 +33,5 @@ I'm a passionate software developer with a keen interest in exploring new soluti
 ## Contact Me
 
 - **Email:** [yuichikamishiro@gmail.com](mailto:yuichikamishiro@gmail.com)
-- **Telegram:** [@itkmt](https://t.me/itkmt)
+- **Telegram:** [@ychqzz](https://t.me/ychqzz)
 - **HH.ru:** [Link to HH.ru profile](#)
